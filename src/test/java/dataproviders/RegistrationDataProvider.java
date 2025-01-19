@@ -67,7 +67,7 @@ public class RegistrationDataProvider {
     public Iterator<Object[]> emailFormatDataProvider() throws IOException, CsvException {
         Collection<Object[]> dp = new ArrayList<>();
 
-        List<String[]> csvData = CSVUtils.readCsv("src/test/resources/testData/registrationEmailFormatValidationTestData.csv");
+        List<String[]> csvData = CSVUtils.readCsv("src/test/resources/testData/registrationEmailValidation.csv");
         int lastnameIndex = 0, firstnameIndex = 1, phoneIndex = 2, emailIndex = 3,
                 addressIndex = 4, cityIndex = 5, countyIndex = 6, passwordIndex = 7, confirmPasswordIndex = 8, registerErrorIndex = 9;
 

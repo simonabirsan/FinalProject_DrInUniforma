@@ -1,0 +1,14 @@
+<registrationModel>
+    <registrationDetailsModel>
+        <lastname>Birsan</lastname>
+        <firstname>Simona</firstname>
+        <phone>0734609480</phone>
+        <email>simona.hirean@gmail.com</email>
+        <address>calea buc nr 40</address>
+        <city>Targu Jiu</city>
+        <county>Gorj</county>
+        <password>Testing123</password>
+        <confirmPassword>Testing123</confirmPassword>
+    </registrationDetailsModel>
+    <registerError></registerError>
+</registrationModel>
