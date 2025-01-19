@@ -1,0 +1,4 @@
+name, surname, e-mail, telephone, password, confirm password, expected result;
+Simona, Birsan, simona.birsan@gmail.com, Testtest123, Testtest123, registration successful;
+Simona, Birsan, simona.birsan.com, Testtest123, Testtest123, registration unsuccessful
+Simona, Birsan, simona.simona@gmail.com, Testtest123, Testtest123, registration unsuccessful;

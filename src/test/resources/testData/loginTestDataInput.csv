@@ -1,0 +1,6 @@
+email,password,result,
+simona.hirean@gmail.com,Test123.,no_message_displayed;
+simonasimona@gmail.com,Test123.,"datele_de_autentificare_sunt_gresite";
+simona.hirean@gmail.com,no_password,"datele_de_autentificare_sunt_gresite";
+no_email,Test123.,"datele_de_autentificare_sunt_gresite";
+no_email,no_password,"datele_de_autentificare_sunt_gresite";

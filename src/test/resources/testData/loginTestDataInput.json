@@ -1,0 +1,44 @@
+[
+  {
+    "account": {
+      "email": "simona.hirean@gmail.com.com",
+      "password": "Test123."
+    },
+    "loginError": "action,login,error",
+    "validationMessage": ""
+  } ,
+  {
+    "account": {
+      "email": "simonasimona@gmail.com",
+      "password": "Test123."
+    },
+    "loginError": "action,login,error",
+    "validationMessage": "Datele de autentificare sunt greşite!"
+  },
+  {
+    "account": {
+      "email": "simona.hirean@gmail.com",
+      "password": ""
+    },
+    "loginError": "",
+    "validationMessage": "Datele de autentificare sunt greşite!"
+  },
+  {
+    "account": {
+      "email": "",
+      "password": "Test123.!"
+    },
+    "loginError": "",
+    "validationMessage": "Datele de autentificare sunt greşite!."
+  },
+  {
+    "account": {
+      "email": "no value",
+      "password": "no value"
+    },
+    "loginError": "",
+    "validationMessage": "Datele de autentificare sunt greşite!"
+  }
+]
+
+
